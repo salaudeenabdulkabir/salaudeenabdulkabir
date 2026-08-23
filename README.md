@@ -1,46 +1,101 @@
-# 👋 Hi, I'm Salaudeen Abdulkabir (VOLTAGE)
+# 👋 Hi, I'm Salaudeen Abdulkabir
 
-**Penetration Tester × SOC Analyst** | Lagos, Nigeria 🇳🇬  
+### Software Engineer | Web & API Development | Application Security | Cloud & DevOps
 
-🔴 **Red Team:** Web, API, Mobile, and Network Penetration Testing  
-🔵 **Blue Team:** SOC Analysis, Threat Detection, and Incident Response  
-⚡ **Mission:** Bridging offensive and defensive security to build resilient systems
+🇳🇬 Nigeria · 🌍 Open to International Remote Opportunities
 
----
+> **I build software. I secure it. I ship it.**
 
-## 🚀 About Me
+I’m a software engineer focused on building modern web applications and APIs, with a strong interest in application security, cloud infrastructure, and DevOps.
 
-I help organizations identify, exploit, and fix security weaknesses before adversaries do.  
-My work combines attacker mindset with defender discipline — from deep technical testing to practical detection and response.
+My approach is simple:
 
-- 💼 Founder @ [VHLabs](https://vhlab.dev)
-- 🐦 X (Twitter): [@ethivolt](https://x.com/ethivolt)
-- 💼 LinkedIn: [Salaudeen Abdulkabir](https://linkedin.com/in/salaudeen-abdulkabir-80545336a)
+**Build → Test → Secure → Deploy → Improve**
+
+I’m particularly interested in the intersection between software engineering and security — understanding not only how systems are built, but also how they can fail, how they can be attacked, and how they can be made more resilient.
 
 ---
 
-## 🛡️ Core Focus Areas
+## 🧭 What I Do
 
-### Red Team
-- Web Application Security Testing
-- API Security Assessments
-- Mobile App Penetration Testing
-- Internal & External Network Penetration Testing
+### 💻 Software Engineering
 
-### Blue Team
-- Security Monitoring & SOC Operations
-- Threat Detection Engineering
-- Incident Triage & Response
-- Alert Analysis and Investigation
+- Web Application Development
+- Frontend Development
+- Backend Development
+- REST API Development
+- Database-driven Applications
+- Authentication & Authorization
+- Secure Software Development
+
+### 🛡️ Application Security
+
+- Web Application Security
+- API Security
+- OWASP Top 10
+- Secure Coding
+- Vulnerability Assessment
+- Security Testing
+- Authentication & Authorization Testing
+
+### ☁️ Cloud & DevOps
+
+- Linux
+- Git & GitHub
+- Docker
+- CI/CD
+- Cloud Infrastructure
+- Application Deployment
+- DevSecOps Fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I'm Building
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chatgptiv4&show_icons=true&theme=dark&hide_border=true)
+I learn by building real systems and documenting the engineering decisions behind them.
+
+My projects explore areas such as:
+
+- Modern web applications
+- REST APIs
+- Authentication and authorization
+- Secure application architecture
+- API security
+- Containerization
+- CI/CD
+- Cloud deployment
+- Security testing
+
+👉 **Explore my projects:**  
+[🌐 salaudeenabdulkabir.me](https://salaudeenabdulkabir.me)
 
 ---
 
-## 🤝 Let’s Connect
+## 🔐 Build → Break → Fix
 
-If you're working on security, detection, adversary simulation, or incident response, feel free to connect and collaborate.
+One of my core engineering interests is understanding what happens when software is pushed beyond its expected behavior.
+
+```text
+┌──────────┐
+│  BUILD   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   TEST   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  BREAK   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   FIX    │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  SECURE  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  DEPLOY  │
+└──────────┘

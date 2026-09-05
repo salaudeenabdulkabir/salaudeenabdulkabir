@@ -2,9 +2,9 @@
 
 # Salaudeen Abdulkabir
 
-### Software Engineer · Application Security · Cybersecurity
+### Software Engineer · Web Development · Application Security
 
-I build practical software and study how applications fail, from private desktop tools and logistics platforms to vulnerable labs and security research.
+I build practical software for desktop and web, with a growing interest in secure software development.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://salaudeenabdulkabir.me)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github)](https://github.com/salaudeenabdulkabir?tab=repositories)
@@ -36,39 +36,23 @@ A logistics website with package lookup, shipment details, animated route tracki
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Vulnerable Bank](https://github.com/salaudeenabdulkabir/vuln-bank)
-
-An intentionally vulnerable banking application for learning web, API, GraphQL, and LLM security. The lab covers authentication flaws, access-control failures, injection, unsafe file handling, and security testing in CI/CD.
-
-`Python` `Flask` `PostgreSQL` `Docker` `GraphQL` `OWASP`
-
-</td>
-<td width="50%" valign="top">
-
-### [Ghost CVE-2026-26980 Lab](https://github.com/salaudeenabdulkabir/ghost-cve-2026-26980)
-
-A reproducible lab for studying blind SQL injection in the Ghost Content API. It includes a Python proof of concept, vulnerable and patched environments, data-extraction tests, and fix validation.
-
-`Python` `Docker` `MySQL` `SQL Injection` `CVE Research`
-
-</td>
-</tr>
 </table>
 
-## What I bring
+## What I work with
 
-- Full-stack development across desktop and web applications
-- Backend and API development with Python, FastAPI, Flask, REST, and GraphQL
 - Frontend development with React, Next.js, TypeScript, JavaScript, HTML, and CSS
-- Practical security testing based on OWASP guidance and real vulnerability classes
-- Development workflows using PostgreSQL, Redis, Docker, Linux, GitHub Actions, and CI/CD
+- Desktop application development with Electron
+- Backend and API development with Python, FastAPI, Flask, REST, and GraphQL
+- Data and infrastructure tools including PostgreSQL, Redis, Docker, Linux, and GitHub Actions
+- Secure coding, OWASP concepts, and application security learning
 
 ## My approach
 
-I like projects that prove how something works. That might mean shipping a desktop reader with local persistence, designing a package-tracking workflow, or reproducing a vulnerability and confirming the fix. I care about useful interfaces, understandable code, and security decisions that can be tested.
+I enjoy building products that solve clear problems. ReadLocal focuses on private, distraction-free reading, while JNS turns delivery data into a simple tracking experience for customers and administrators. I care about useful interfaces, understandable code, and steady improvement through testing.
+
+## Currently learning
+
+I am developing my knowledge of application security, API security, DevOps, and cloud deployment alongside my software engineering work.
 
 ## Connect
 

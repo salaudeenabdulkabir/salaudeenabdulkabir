@@ -1,101 +1,64 @@
-# 👋 Hi, I'm Salaudeen Abdulkabir
+<h1 align="center">Salaudeen Abdulkabir</h1>
 
-### Software Engineer | Web & API Development | Application Security | Cloud & DevOps
+<p align="center">
+  Software engineer building secure web applications, APIs, and cloud-ready systems.
+</p>
 
-🇳🇬 Nigeria · 🌍 Open to International Remote Opportunities
+<p align="center">
+  Based in Nigeria · Open to international remote opportunities
+</p>
 
-> **I build software. I secure it. I ship it.**
+<p align="center">
+  <a href="https://salaudeenabdulkabir.me">Portfolio</a> ·
+  <a href="https://github.com/salaudeenabdulkabir?tab=repositories">Projects</a>
+</p>
 
-I’m a software engineer focused on building modern web applications and APIs, with a strong interest in application security, cloud infrastructure, and DevOps.
+## About me
 
-My approach is simple:
+I work across frontend, backend, and application security. I enjoy turning ideas into useful products, then testing how those systems behave under failure and attack.
 
-**Build → Test → Secure → Deploy → Improve**
+My recent work includes a deliberately vulnerable banking lab for web, API, GraphQL, and LLM security testing, as well as a full-stack platform for AI-assisted social media publishing.
 
-I’m particularly interested in the intersection between software engineering and security — understanding not only how systems are built, but also how they can fail, how they can be attacked, and how they can be made more resilient.
+I am interested in software engineering, application security, DevSecOps, and roles where I can build dependable products while improving their security.
 
----
+## Featured projects
 
-## 🧭 What I Do
+### [Vulnerable Bank](https://github.com/salaudeenabdulkabir/vuln-bank)
 
-### 💻 Software Engineering
+An educational banking application built for hands-on security testing. It includes intentionally vulnerable web, REST API, GraphQL, authentication, payment, file upload, and LLM features.
 
-- Web Application Development
-- Frontend Development
-- Backend Development
-- REST API Development
-- Database-driven Applications
-- Authentication & Authorization
-- Secure Software Development
+`Python` `Flask` `PostgreSQL` `Docker` `GraphQL` `Application Security`
 
-### 🛡️ Application Security
+### [SocialPilot AI](https://github.com/salaudeenabdulkabir/SocialPilot)
 
-- Web Application Security
-- API Security
-- OWASP Top 10
-- Secure Coding
-- Vulnerability Assessment
-- Security Testing
-- Authentication & Authorization Testing
+A full-stack SaaS application for generating social media content, scheduling posts, connecting accounts, and reviewing analytics.
 
-### ☁️ Cloud & DevOps
+`FastAPI` `React` `Vite` `PostgreSQL` `Redis` `Celery`
 
-- Linux
-- Git & GitHub
-- Docker
-- CI/CD
-- Cloud Infrastructure
-- Application Deployment
-- DevSecOps Fundamentals
+### [LASUED Skill Acquisition Platform](https://github.com/salaudeenabdulkabir/LASUEDSAP)
 
----
+A skill acquisition website created for Lagos State University of Education.
 
-## 🚀 What I'm Building
+`Web Development` `User Experience`
 
-I learn by building real systems and documenting the engineering decisions behind them.
+## What I work with
 
-My projects explore areas such as:
+- Frontend: React, Next.js, JavaScript, TypeScript, HTML, CSS
+- Backend: Python, FastAPI, Flask, REST APIs, GraphQL
+- Data and infrastructure: PostgreSQL, Redis, Docker, Linux, CI/CD
+- Security: OWASP Top 10, API security, secure coding, vulnerability assessment, authentication and authorization testing
 
-- Modern web applications
-- REST APIs
-- Authentication and authorization
-- Secure application architecture
-- API security
-- Containerization
-- CI/CD
-- Cloud deployment
-- Security testing
+## How I approach engineering
 
-👉 **Explore my projects:**  
-[🌐 salaudeenabdulkabir.me](https://salaudeenabdulkabir.me)
+I build working systems, test their assumptions, fix weaknesses, and document what I learn. Security is part of the engineering process from the start, not a final checklist.
 
----
+## Current focus
 
-## 🔐 Build → Break → Fix
+- Building production-style full-stack applications
+- Automating security checks in development and deployment workflows
+- Studying practical web, API, GraphQL, and AI application security
+- Writing clearer technical documentation for the systems I build
 
-One of my core engineering interests is understanding what happens when software is pushed beyond its expected behavior.
+## Contact
 
-```text
-┌──────────┐
-│  BUILD   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│   TEST   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  BREAK   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│   FIX    │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  SECURE  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  DEPLOY  │
-└──────────┘
+The best way to learn more about my work is through my [portfolio](https://salaudeenabdulkabir.me) or my [GitHub repositories](https://github.com/salaudeenabdulkabir?tab=repositories).

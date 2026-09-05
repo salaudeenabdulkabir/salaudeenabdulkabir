@@ -1,64 +1,75 @@
-<h1 align="center">Salaudeen Abdulkabir</h1>
+<div align="center">
 
-<p align="center">
-  Software engineer building secure web applications, APIs, and cloud-ready systems.
-</p>
+# Salaudeen Abdulkabir
 
-<p align="center">
-  Based in Nigeria · Open to international remote opportunities
-</p>
+### Software Engineer · Application Security · Cybersecurity
 
-<p align="center">
-  <a href="https://salaudeenabdulkabir.me">Portfolio</a> ·
-  <a href="https://github.com/salaudeenabdulkabir?tab=repositories">Projects</a>
-</p>
+I build practical software and study how applications fail, from private desktop tools and logistics platforms to vulnerable labs and security research.
 
-## About me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://salaudeenabdulkabir.me)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github)](https://github.com/salaudeenabdulkabir?tab=repositories)
 
-I work across frontend, backend, and application security. I enjoy turning ideas into useful products, then testing how those systems behave under failure and attack.
+Based in Nigeria · Open to international remote opportunities
 
-My recent work includes a deliberately vulnerable banking lab for web, API, GraphQL, and LLM security testing, as well as a full-stack platform for AI-assisted social media publishing.
+</div>
 
-I am interested in software engineering, application security, DevSecOps, and roles where I can build dependable products while improving their security.
+## Selected work
 
-## Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ReadLocal](https://github.com/salaudeenabdulkabir/ReadLocal)
+
+A private, offline-first desktop library for PDF and EPUB books. It tracks reading progress, notes, highlights, goals, and sessions while keeping books and activity data on the user’s computer.
+
+`Electron` `React` `TypeScript` `Vite` `PDF.js` `epub.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [JNS Express Delivery](https://github.com/salaudeenabdulkabir/JNS-)
+
+A logistics website with package lookup, shipment details, animated route tracking, and an administration dashboard for managing deliveries.
+
+`JavaScript` `Firebase` `HTML` `CSS` `Responsive UI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Vulnerable Bank](https://github.com/salaudeenabdulkabir/vuln-bank)
 
-An educational banking application built for hands-on security testing. It includes intentionally vulnerable web, REST API, GraphQL, authentication, payment, file upload, and LLM features.
+An intentionally vulnerable banking application for learning web, API, GraphQL, and LLM security. The lab covers authentication flaws, access-control failures, injection, unsafe file handling, and security testing in CI/CD.
 
-`Python` `Flask` `PostgreSQL` `Docker` `GraphQL` `Application Security`
+`Python` `Flask` `PostgreSQL` `Docker` `GraphQL` `OWASP`
 
-### [SocialPilot AI](https://github.com/salaudeenabdulkabir/SocialPilot)
+</td>
+<td width="50%" valign="top">
 
-A full-stack SaaS application for generating social media content, scheduling posts, connecting accounts, and reviewing analytics.
+### [Ghost CVE-2026-26980 Lab](https://github.com/salaudeenabdulkabir/ghost-cve-2026-26980)
 
-`FastAPI` `React` `Vite` `PostgreSQL` `Redis` `Celery`
+A reproducible lab for studying blind SQL injection in the Ghost Content API. It includes a Python proof of concept, vulnerable and patched environments, data-extraction tests, and fix validation.
 
-### [LASUED Skill Acquisition Platform](https://github.com/salaudeenabdulkabir/LASUEDSAP)
+`Python` `Docker` `MySQL` `SQL Injection` `CVE Research`
 
-A skill acquisition website created for Lagos State University of Education.
+</td>
+</tr>
+</table>
 
-`Web Development` `User Experience`
+## What I bring
 
-## What I work with
+- Full-stack development across desktop and web applications
+- Backend and API development with Python, FastAPI, Flask, REST, and GraphQL
+- Frontend development with React, Next.js, TypeScript, JavaScript, HTML, and CSS
+- Practical security testing based on OWASP guidance and real vulnerability classes
+- Development workflows using PostgreSQL, Redis, Docker, Linux, GitHub Actions, and CI/CD
 
-- Frontend: React, Next.js, JavaScript, TypeScript, HTML, CSS
-- Backend: Python, FastAPI, Flask, REST APIs, GraphQL
-- Data and infrastructure: PostgreSQL, Redis, Docker, Linux, CI/CD
-- Security: OWASP Top 10, API security, secure coding, vulnerability assessment, authentication and authorization testing
+## My approach
 
-## How I approach engineering
+I like projects that prove how something works. That might mean shipping a desktop reader with local persistence, designing a package-tracking workflow, or reproducing a vulnerability and confirming the fix. I care about useful interfaces, understandable code, and security decisions that can be tested.
 
-I build working systems, test their assumptions, fix weaknesses, and document what I learn. Security is part of the engineering process from the start, not a final checklist.
+## Connect
 
-## Current focus
-
-- Building production-style full-stack applications
-- Automating security checks in development and deployment workflows
-- Studying practical web, API, GraphQL, and AI application security
-- Writing clearer technical documentation for the systems I build
-
-## Contact
-
-The best way to learn more about my work is through my [portfolio](https://salaudeenabdulkabir.me) or my [GitHub repositories](https://github.com/salaudeenabdulkabir?tab=repositories).
+You can explore more of my work on my [portfolio](https://salaudeenabdulkabir.me) or browse my [repositories](https://github.com/salaudeenabdulkabir?tab=repositories).
